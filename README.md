@@ -298,7 +298,7 @@ cat THE_LAST_TRY-example.com/SUMMARY.md
 
 <div align="center">
 
-### 💬 *"Everybody has a plan until they get punched in the mouth."*
+## 💬 *"NOTICE :- Because of every point connection and many test/tools to run, It takes a longer time depending upon your target depth and your internet speed + bandwidth limit, So keep patience when it seems stuck, GREAT THINGS TAKE TIME"*
 
 **Point it at a target. Walk away. Come back to everything.**
 
