@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎯 The Last Try 2.0
+# 🎯 The Last Try 2.0 [ BETA ]
 
 ### ⚡ World's Most Advanced & Automated Offensive Reconnaissance Suite for Linux
 
