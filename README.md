@@ -289,10 +289,10 @@ Type 'I AM AUTHORIZED':    I AM AUTHORIZED
 When you come back, open the report:
 
 ```bash
-cat THE_LAST_TRY-example.com/SUMMARY.md
+open THE_LAST_TRY-example.com/report/dashboard.html
 ```
 
-> 💡 **Interrupted?** Just re-run the exact same command — it auto-detects the saved session and continues **exactly where it left off**, skipping everything already done. Use `--fresh` to start over instead.
+> 💡 **Interrupted ?** Just re-run the exact same command — it auto-detects the saved session and continues **exactly where it left off**, nothing gone - nothing breaks, skipping everything which already done. Or use `--fresh` switch to start again from 0.
 
 ---
 
