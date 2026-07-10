@@ -2,7 +2,7 @@
 
 # 🎯 The Last Try 2.0
 
-### ⚡ Automated Offensive Reconnaissance Suite for Kali Linux
+### ⚡ World's Most Advanced & Automated Offensive Reconnaissance Suite for Linux
 
 *Give it a target. Walk away. Come back to everything a careful hacker would have found by hand.*
 
